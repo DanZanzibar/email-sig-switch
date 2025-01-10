@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "email-sig-switch"
+name = "email_sig_switch"
 version = "0.1.0"
 description = "A simple command for switching email signature files for thunderbird."
 authors = ["Zan Owsley <zanowsley@gmail.com>"]
@@ -15,4 +15,4 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-switch-email-signature = 'email-sig-switch.email-sig-switch:switch_signature'
+switch-email-signature = 'email_sig_switch.email_sig_switch:switch_signature'
