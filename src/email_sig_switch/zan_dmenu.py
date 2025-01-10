@@ -1,0 +1,1 @@
+../../../zan_dmenu/src/zan_dmenu/zan_dmenu.py
